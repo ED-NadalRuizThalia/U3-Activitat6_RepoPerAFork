@@ -56,7 +56,9 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 #### AlumneFila2 PC1:
 
 
-#### AlumneFila2 PC2:
+#### AlumneFila2 PC2: Thalía Nadal Ruiz
+
+Ja he afegit el missatge nadalenc.
 
 
 #### AlumneFila2 PC3:
